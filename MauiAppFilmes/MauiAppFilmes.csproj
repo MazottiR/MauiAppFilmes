@@ -84,6 +84,9 @@
 	  <MauiXaml Update="Categorias\Ficcaocientifica.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Categorias\Infantil.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Filmes\alien.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
